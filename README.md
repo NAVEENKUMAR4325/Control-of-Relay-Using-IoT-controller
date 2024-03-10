@@ -1,5 +1,5 @@
 #### Name : Naveen Kumar E
-#### Ref No. : 212222220029
+#### Reg No. : 212222220029
 # Exp-2 Control of Relay Using IoT controller
 ##  AIM:
 To control the Relay using Arduino controller
